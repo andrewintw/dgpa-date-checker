@@ -103,7 +103,7 @@ GET https://script.google.com/macros/s/.../exec?date=20250101
 
 ## 資料來源
 
-資料來自[台灣人事行政總處](https://www.dgpa.gov.tw/)
+資料來自[台灣政府資料開放平台](https://data.gov.tw/dataset/14718)
 
 ## 授權
 
